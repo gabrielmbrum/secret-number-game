@@ -1,5 +1,5 @@
 let arraySorted = [];
-let max = 10;
+let max = 100;
 let numSec = randomNumber(1, max);
 let tries = 0;
 
